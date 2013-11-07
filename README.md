@@ -17,3 +17,9 @@ Bar and column plots are often abused when the origin is not anchored at zero. D
 Time series data with a cyclical component, such as monthly sales or page views, can have a seasonal component. Examples might include a backend-loaded sales forecast or page views that drop on the weekend. Cycle plots can help to display both the trend and compare the variations between sub-periods.
 
 ![Cycle Plot](cycle_plot.png)
+
+## [Fancy Tables](http://github.com/rbdixon/R-visualizations/blob/master/rmarkdown_fancytables.md)
+
+Ideas on how to make prettier tables in knitr/markdown documents.
+
+![Fancy table](rmarkdown_fancytables.png)
