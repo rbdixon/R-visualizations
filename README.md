@@ -23,3 +23,13 @@ Time series data with a cyclical component, such as monthly sales or page views,
 Ideas on how to make prettier tables in knitr/markdown documents.
 
 ![Fancy table](rmarkdown_fancytables.png)
+
+## [Datendesign in R](http://www.datendesign-r.de/) Example
+
+I don't read German but this looks like a great book. I ran one of the examples locally and learned some new tricks about how to import fonts and pull SVG into knitr.
+
+![Quartal Line](quartal_line.png)
+
+An quick and crude attempt to mimic in Excel:
+
+![Quartal Line Excel](quartal_line_excel.png)
